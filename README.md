@@ -31,15 +31,16 @@ using models to understand how **complex systems evolve and spread information**
 
 ### 🧠 Methods & tools
 
-```text
-Python      ▓▓▓▓▓▓▓▓▓░
-C / C++     ▓▓▓▓▓▓░░░░
-R           ▓▓▓▓▓▓░░░░
-LaTeX       ▓▓▓▓▓▓▓▓▓▓
-
+- Python 
+- C / C++
+- R
+- LaTeX
+- network and agent-based simulations
+- stochastic modeling
 ---
 
-- 📫 How to reach me: garboa79@gmail.com
+📫 How to reach me: garboa79@gmail.com
+
 <!--
 **annagarbo/annagarbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
